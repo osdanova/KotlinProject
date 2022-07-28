@@ -1,0 +1,8 @@
+Selecciona un item para analizar.
+
+A la izquierda puedes aplicar diferentes filtros.
+No es necesario rellenar ambos campos de una fecha, se puede buscar mayor que o menor que.
+El filtro de propietario busca una cadena dentro del metadato propietario de un elemento.
+Para usar el filtro de extensión, añade un "." al principio, Ej: ".txt" (Por motivos de escalabilidad)
+
+Selecciona un elemento para copiar usando doble click sobre el elemento en la tabla.
